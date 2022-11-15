@@ -1,0 +1,26 @@
+{
+  "name": "prac-2-oc",
+  "version": "1.0.0",
+  "description": "SIT725 Practicals ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abatool-abatool/Prac-2-OC.git"
+  },
+  "keywords": [
+    "Express",
+    "Node"
+  ],
+  "author": "Amna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abatool-abatool/Prac-2-OC/issues"
+  },
+  "homepage": "https://github.com/abatool-abatool/Prac-2-OC#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
